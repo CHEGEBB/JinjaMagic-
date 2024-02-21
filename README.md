@@ -22,9 +22,11 @@ JinjaMagic is your wand for effortlessly converting HTML files into Jinja2 templ
 **Usage:**
 
 1. Cast the clone spell: `git clone https://github.com/CHEGEBB/JinjaMagic.git`
-2. Enter the realm of magic: `cd JinjaMagic`
+2. Enter the realm of magic: `cd JinjaMagic-`
 3. Summon the dependencies: `pip install -r requirements.txt`
 4. Unleash the magic: `python jinj.py`
+5. for shell users: `chmod +x jinj.sh`
+6. run:`./jinj.sh`
 
 **Contributing:**
 
